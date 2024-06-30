@@ -1,8 +1,19 @@
 ## Resync Gitignore 
 
-# rm all files
+Remove all files
+
+```
 git rm -r --cached .
-# add all files as per new .gitignore
+```
+
+Add all files as per new .gitignore
+
+```
 git add .
-# now, commit for new .gitignore to apply
+```
+
+Now, commit
+
+```
 git commit -m ".gitignore is now working"
+```
