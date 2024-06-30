@@ -9,3 +9,6 @@ My notes on everything I have learned during my development.
 - [Install Android Studio](./Fedora/install_android_studio_fedora.md)
 - [Update Android Studio](./Fedora/update_android_studio_fedora.md)
 
+### Git
+
+- [Resync gitignore to origin](./Git/resync_gitignore.md)
