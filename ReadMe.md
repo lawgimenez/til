@@ -6,6 +6,7 @@ My notes on everything I have learned during my development.
 #### Android
 - [Migrate package name from Java to Kotlin](./Android/migrate_package_name_from_java_to_kotlin.md)
 - [Device Pairing](./Android/device_pairing.md)
+- [Uninstall Android apps via ADB](./Android/uninstall_android_apps_via_adb.md)
 
 
 #### Fedora
